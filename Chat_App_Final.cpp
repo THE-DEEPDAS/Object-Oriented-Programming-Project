@@ -83,6 +83,7 @@ namespace chatapp {
 
     class Message {
     public:
+    // just a random comment
         String sender;
         String content;
         String algorithm;
