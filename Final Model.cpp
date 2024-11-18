@@ -801,7 +801,6 @@ int main()
     while (true)
     {
     Gate:
-
         if (chatapp::users.empty())
         {
             cout << "No Users Yet" << endl;
