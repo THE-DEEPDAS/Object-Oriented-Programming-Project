@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// DES Encryption/Decryption (simplified for example purposes)
+// DES Encryption/Decryption (simplified for example purposes)   hell no
 class DES
 {
     string key;
